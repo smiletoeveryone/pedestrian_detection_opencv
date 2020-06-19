@@ -5,6 +5,6 @@ pip install imutils
 pip install python-opencv
 
 
-just run in the terminal 
+just run it in the terminal 
 
 /$ python pedestrian_detection_pub.py
